@@ -1,0 +1,8 @@
+#include "ki2049.c"
+#include "ki2049d.c"
+#include "ki2050.c"
+#include "ki2050d.c"
+#include "ki2051.c"
+#include "ki2051d.c"
+#include "kl2048.c"
+#include "kl2048d.c"
