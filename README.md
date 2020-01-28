@@ -22,3 +22,6 @@ To test the differences between the acceptance text files and the actual text fi
 fc at01.actual.txt at01.expected.txt
 ```
 Similar to using diff on Linux, it will output any differences found between both files.
+
+# :beetle: Bugs
+- Currently the losing algorithm isn't 100% working.
