@@ -1,5 +1,8 @@
 # Chess Solitaire (with undo/redo)
 
+# :computer: Technical Profile
+Written in an object oriented programming language called Eiffel, which is a design by contract programming language, which specifically focuses on (you guessed it) design. The focus with Eiffel is on command-query separations, focuses on cohesion in software, void safety, single choice principle, open close principle and uniform access principle.
+
 # :heavy_check_mark: Learning Outcomes Achieved
 - How to implement undo/redo pattern based off a case study reading given to me
 - How to implement business model logic and user interface
